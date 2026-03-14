@@ -16,6 +16,6 @@
     "vite-plugin-wasm": "^3.5.0"
   },
   "dependencies": {
-    "@aiamitsuri/interoperability-ffi-wasm": "^0.1.11"
+    "@aiamitsuri/interoperability-ffi-wasm": "^0.1.14"
   }
 }
